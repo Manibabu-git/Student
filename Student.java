@@ -4,6 +4,10 @@ class Student
     {
         System.out.println("Good Morning!!!!!");
         System.out.println("pipeline will triger when i push it "):
-        int i=0;
+        System.out.println("*******************************");
+        for(int i=0;i<10;i++)
+            {
+                System.out.print("numbers are :" +i+" ");
+            }
     }
 }
