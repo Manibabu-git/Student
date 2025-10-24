@@ -4,5 +4,6 @@ class Student
     {
         System.out.println("Good Morning!!!!!");
         System.out.println("pipeline will triger when i push it "):
+        int i=0;
     }
 }
