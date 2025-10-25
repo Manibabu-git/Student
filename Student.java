@@ -10,6 +10,5 @@ class Student
                System.out.print(i+" ");
             }
         System.out.println("checking Pull based mechanism with webhook");
-        System.out.println("validate webhook");
     }
 }
