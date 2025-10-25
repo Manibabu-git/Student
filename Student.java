@@ -11,5 +11,6 @@ class Student
             }
         System.out.println("checking Pull based mechanism with webhook");
         System.out.println("adding webhook for this repository");
+        System.out.println("rectified webhook setting in the jenkins");
     }
 }
